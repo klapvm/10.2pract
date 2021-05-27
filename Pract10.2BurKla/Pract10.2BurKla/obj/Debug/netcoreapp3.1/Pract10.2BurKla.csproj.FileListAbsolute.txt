@@ -1,0 +1,13 @@
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\obj\Debug\netcoreapp3.1\Pract10.2BurKla.csprojAssemblyReference.cache
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\obj\Debug\netcoreapp3.1\Pract10.2BurKla.AssemblyInfoInputs.cache
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\obj\Debug\netcoreapp3.1\Pract10.2BurKla.AssemblyInfo.cs
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\obj\Debug\netcoreapp3.1\Pract10.2BurKla.csproj.CoreCompileInputs.cache
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\bin\Debug\netcoreapp3.1\Pract10.2BurKla.exe
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\bin\Debug\netcoreapp3.1\Pract10.2BurKla.deps.json
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\bin\Debug\netcoreapp3.1\Pract10.2BurKla.runtimeconfig.json
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\bin\Debug\netcoreapp3.1\Pract10.2BurKla.runtimeconfig.dev.json
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\bin\Debug\netcoreapp3.1\Pract10.2BurKla.dll
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\bin\Debug\netcoreapp3.1\Pract10.2BurKla.pdb
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\obj\Debug\netcoreapp3.1\Pract10.2BurKla.dll
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\obj\Debug\netcoreapp3.1\Pract10.2BurKla.pdb
+C:\Users\klapv\source\repos\Pract10.2BurKla\Pract10.2BurKla\obj\Debug\netcoreapp3.1\Pract10.2BurKla.genruntimeconfig.cache
